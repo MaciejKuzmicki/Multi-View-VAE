@@ -7,7 +7,7 @@ The goal of this project is to explore multimodal generative modeling. The model
 
 ## Architecture
 
-![Multi-View VAE Architecture](report_data/Diagram.png)
+![Multi-View VAE Architecture](report_data/diagram.png)
 
 ## Key Features & Capabilities
 * **Custom Data Pipeline:** Pairs MNIST and SVHN images sharing the same label to train the joint distribution.
